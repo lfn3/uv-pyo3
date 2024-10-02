@@ -1,0 +1,7 @@
+/target
+/pyo3_config
+/__pycache__
+/.venv
+/.mypy_cache
+/.pytest_cache
+/.ruff_cache
